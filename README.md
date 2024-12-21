@@ -2,4 +2,4 @@ Data-Visualization-Assignment-1
 
 Completed on 4th October, 2024
 
-Analysing and Visualizing key information from the Superstore data.
+Using Tableau for Analysing and Visualizing key information from the Superstore dataset.
